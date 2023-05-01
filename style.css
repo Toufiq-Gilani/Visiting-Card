@@ -1,0 +1,25 @@
+body {
+    margin: 1.2em;
+    font-family: 'Rubik', sans-serif;
+}
+
+.card {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1.2em;
+    text-align: center;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-around;
+    color: #4DBBFF;
+    background: #222D39;
+    border-bottom: 6px solid #4DBBFF;
+}
+
+.card-img {
+    width: 150px;
+}
+
+.card-info {
+    margin-left: 0.3em;
+}
